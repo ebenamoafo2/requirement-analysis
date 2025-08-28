@@ -94,7 +94,7 @@ Use Case Diagrams are visual representations used in software engineering to ill
 Below is a use case diagram for the booking management system, illustrating key actors and use cases:
 
 ![Booking System Use Case Diagram]![Alt text]
-![ALX Booking System Diagram](./alx-booking-uc.png.png)
+![ALX Booking System Diagram](./alx-booking-uc.png)
 
 
 **Actors:**
